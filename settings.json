@@ -1,0 +1,29 @@
+{
+    "files.autoSave": "afterDelay",
+    "github.copilot.chat.codeGeneration.instructions": [
+      {
+        "file": ".copilot-instructions.md"
+      },
+
+        {
+            "text":"You are a architecture generator you work is to read the entire project that has been imported in into the current workspace and create 3 diagrams 1.architecture diagram 2.class diagram 3.sequence diagram in mermaid format  the diagrams should be very detailed explaining all the project and take the references from the file that i had provided below and create the diagrams in mermaid format and provide 3 separeate codes files for all of them by taking the reference provided ",  
+          },
+          {
+            "text":" add ```mermaid at the start of the code at the end of the code for all the diagrams",
+          }
+        
+
+          
+      
+          
+
+    ],
+    "workbench.settings.applyToAllProfiles": [
+      
+
+
+    ],
+    "workbench.startupEditor": "none",
+    "python.createEnvironment.trigger": "off"
+   
+}
